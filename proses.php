@@ -17,5 +17,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   }
 
   echo "Hasil dari ".$angka1." ".$operator." ".$angka2." adalah ".$hasil;
-}
 ?>
